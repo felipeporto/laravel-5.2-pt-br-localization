@@ -7,7 +7,13 @@
   $ cd resources/lang/
   $ git clone git@github.com:felipeporto/laravel-5.2-pt-br-localization.git ./pt-br
   ```
+  
+  Você pode remover o diretório .git para poder incluir e versionar os arquivos deste projeto no seu repositório.
 
+  ```
+  $ rm -r pt-br/.git/
+  ```
+  
 2. Configurar o Framework para utilizar a linguagem como Default
   ```
   // Linha 68 do arquivo config/app.php
