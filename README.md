@@ -5,7 +5,7 @@
 1. Clonar este projeto para uma pasta dentro de `resources/lang/`
   ```
   $ cd resources/lang/
-  $ git clone git@github.com:felipeporto/laravel-5.2-pt-br-localization.git ./pt-br
+  $ git clone https://github.com/felipeporto/laravel-5.2-pt-br-localization.git ./pt-br
   ```
 
 2. Configurar o Framework para utilizar a linguagem como Default
