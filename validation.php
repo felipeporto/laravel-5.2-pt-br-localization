@@ -46,7 +46,7 @@ return [
         'numeric' => ':Attribute não deve ser maior que :max.',
         'file'    => ':Attribute não deve ter mais que :max kilobytes.',
         'string'  => ':Attribute não deve ter mais que :max caracteres.',
-        'array'   => ':Attribute não pode ter mais que :max itens.',
+        'array'   => ':Attribute não deve ter mais que :max itens.',
     ],
     'mimes'                => ':Attribute deve ser um arquivo do tipo: :values.',
     'min'                  => [
