@@ -8,7 +8,7 @@
   $ git clone https://github.com/felipeporto/laravel-5.2-pt-br-localization.git ./pt-br
   ```
   
-  Você pode remover o diretório .git para poder incluir e versionar os arquivos deste projeto no seu repositório.
+  Você pode remover o diretório oculto .git para poder incluir e versionar os arquivos deste projeto no seu repositório.
 
   ```
   $ rm -r pt-br/.git/
