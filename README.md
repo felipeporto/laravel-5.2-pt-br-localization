@@ -1,4 +1,4 @@
-# Arquivos de linguagem do Laravel 5.2 - Português do Brasil
+# Arquivos de linguagem do Laravel 5.2 e 5.3 - Português do Brasil
 
 ## Instalação
 
@@ -15,7 +15,13 @@
   ```
   
 2. Configurar o Framework para utilizar a linguagem como Default
+  
+  Altere de:
   ```
-  // Linha 68 do arquivo config/app.php
+  'locale' => 'en',
+  ```
+
+  Para:
+  ```
   'locale' => 'pt-br',
   ```
