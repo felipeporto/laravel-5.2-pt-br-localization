@@ -16,6 +16,7 @@ return [
     'accepted'             => ':Attribute deve ser aceito.',
     'active_url'           => ':Attribute não é uma URL válida.',
     'after'                => ':Attribute deve ser uma data depois de :date.',
+    'after_or_equal'       => ':attribute deve ser uma data posterior ou igual a:date.',
     'alpha'                => ':Attribute deve conter somente letras.',
     'alpha_dash'           => ':Attribute deve conter letras, números e traços.',
     'alpha_num'            => ':Attribute deve conter somente letras e números.',
